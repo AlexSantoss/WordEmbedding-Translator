@@ -48,5 +48,6 @@ Notebook using models from different languages to translate words. This code use
 
 <h3>Glove model</h3>
 You can transform Glove models to Word2Vec model by running:
+<p>
 <code>python -m gensim.scripts.glove2word2vec --input  glove.model.txt --output w2v.model.txt</code>
-
+</p>
