@@ -9,6 +9,9 @@
 <h2>Dependencies</h2>
 <ul>
     <li>
+        Python 3.9 or higher
+    </li>
+    <li>
         Jupyter notebook - <code>pip install notebook</code>
     </li>
     <li>
