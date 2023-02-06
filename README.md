@@ -26,7 +26,6 @@
         Download this repo: 
         <code>git clone https://github.com/AlexSantoss/WordEmbedding-Translator.git</code>
     </li>
-    
     <li>
         Run the file main.ipynb
     </li>
