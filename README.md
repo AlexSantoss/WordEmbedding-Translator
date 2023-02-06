@@ -27,7 +27,7 @@
         <code>git clone https://github.com/AlexSantoss/WordEmbedding-Translator.git</code>
     </li>
     <li>
-        Run the file [main.ipynb](https://github.com/AlexSantoss/WordEmbedding-Translator/blob/automation/main.ipynb)
+        Run the file <a href="https://github.com/AlexSantoss/WordEmbedding-Translator/blob/automation/main.ipynb">main.ipynb</a>
     </li>
 </ol>
 
