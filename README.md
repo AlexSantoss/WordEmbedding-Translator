@@ -26,46 +26,9 @@
         Download this repo: 
         <code>git clone https://github.com/AlexSantoss/WordEmbedding-Translator.git</code>
     </li>
+    
     <li>
-        Inside the folder "Datasets", create a new one called "FastText".
-    </li>
-    <li>
-        Download and extract the following files inside the FastText folder:
-        <ul> 
-            <li>
-                Danish: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.da.300.vec.gz
-            </li>
-            <li>
-                Dutch: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.nl.300.vec.gz
-            </li>
-            <li>
-                English: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz
-            </li>
-            <li>
-                French: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz
-            </li>
-            <li>
-                German: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.de.300.vec.gz
-            </li>
-            <li>
-                Italian: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.it.300.vec.gz
-            </li>
-            <li>
-                Portuguese: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.pt.300.vec.gz
-            </li>
-            <li>
-                Romanian: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ro.300.vec.gz
-            </li>
-            <li>
-                Spanish: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.es.300.vec.gz
-            </li>
-            <li>
-                Swedish: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.sv.300.vec.gz
-            </li>
-        </ul>
-    </li>
-    <li>
-        Run the file Translator.ipynb
+        Run the file main.ipynb
     </li>
 </ol>
 
