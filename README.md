@@ -17,7 +17,7 @@
     <li>
         Gensim - <code>pip install gensim</code>
     </li>
-<ul>
+</ul>
 
 
 <h2>How to run</h2>
@@ -27,7 +27,7 @@
         <code>git clone https://github.com/AlexSantoss/WordEmbedding-Translator.git</code>
     </li>
     <li>
-        Run the file main.ipynb
+        Run the file [main.ipynb](https://github.com/AlexSantoss/WordEmbedding-Translator/blob/automation/main.ipynb)
     </li>
 </ol>
 
