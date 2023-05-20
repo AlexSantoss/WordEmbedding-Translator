@@ -1,6 +1,6 @@
 <h1>Word Embedding Translator</h1>
 <p>
-    Undergraduate course completion work presented to the Computer Institute of Federal University of Rio de Janeiro as part of the requirements for obtaining the degree of Bachelor in Computer Science.
+    Undergraduate dissertation submitted to the Instituto de Computação, Universidade Federal do Rio de Janeiro as a partial requirement to obtain the title of Bachelor in Computer Science.
 </p>
 <p>
     Notebook using models from different languages to translate words. This code use the Procrustes Problem and a subset of words with known translations to find the best translation matrix.
@@ -33,16 +33,7 @@
         Download and extract the following files inside the FastText folder:
         <ul> 
             <li>
-                Danish: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.da.300.vec.gz
-            </li>
-            <li>
-                Dutch: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.nl.300.vec.gz
-            </li>
-            <li>
                 English: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.vec.gz
-            </li>
-            <li>
-                French: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.fr.300.vec.gz
             </li>
             <li>
                 German: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.de.300.vec.gz
@@ -52,9 +43,6 @@
             </li>
             <li>
                 Portuguese: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.pt.300.vec.gz
-            </li>
-            <li>
-                Romanian: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ro.300.vec.gz
             </li>
             <li>
                 Spanish: https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.es.300.vec.gz
@@ -72,7 +60,7 @@
 
 <h3>Glove model</h3>
 
-You can transform Glove models to Word2Vec model by running:
+It is possible to transform Glove models to Word2Vec model by running:
 
 <p>
     <code>python -m gensim.scripts.glove2word2vec --input  glove.model.txt --output w2v.model.txt</code>
